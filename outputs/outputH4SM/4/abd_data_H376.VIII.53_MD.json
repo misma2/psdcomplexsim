@@ -1,0 +1,53 @@
+{
+    "complexes": [],
+    "proteins": [{
+            "name": "DLG4",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 36,
+                    "bound": 0
+                }]
+        }, {
+            "name": "DLGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 1,
+                    "bound": 0
+                }]
+        }, {
+            "name": "GRIA1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 1,
+                    "bound": 0
+                }]
+        }, {
+            "name": "GRIN2B",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 2,
+                    "bound": 0
+                }]
+        }, {
+            "name": "HOMER1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 1,
+                    "bound": 0
+                }]
+        }, {
+            "name": "SHANK3",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 52,
+                    "bound": 0
+                }]
+        }, {
+            "name": "SYNGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 17,
+                    "bound": 0
+                }]
+        }]
+}

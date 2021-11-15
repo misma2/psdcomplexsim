@@ -1,0 +1,92 @@
+{
+    "complexes": [{
+            "ID": 0,
+            "structure": ["DLG4", "SYNGAP1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "CSYNGAP",
+                    "second_p": 0,
+                    "second_d": "PDZ3"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 17
+                }]
+        }, {
+            "ID": 1,
+            "structure": ["DLG4", "GRIA1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "CAMPA",
+                    "second_p": 0,
+                    "second_d": "PDZtandem"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 12
+                }]
+        }, {
+            "ID": 2,
+            "structure": ["DLG4", "DLGAP1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 4
+                }]
+        }],
+    "proteins": [{
+            "name": "DLG4",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 237,
+                    "bound": 33
+                }]
+        }, {
+            "name": "DLGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 23,
+                    "bound": 4
+                }]
+        }, {
+            "name": "GRIA1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 126,
+                    "bound": 12
+                }]
+        }, {
+            "name": "GRIN2B",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 10,
+                    "bound": 0
+                }]
+        }, {
+            "name": "HOMER1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 12,
+                    "bound": 0
+                }]
+        }, {
+            "name": "SHANK3",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 48,
+                    "bound": 0
+                }]
+        }, {
+            "name": "SYNGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 65,
+                    "bound": 17
+                }]
+        }]
+}

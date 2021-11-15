@@ -1,0 +1,53 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3"
+            ]
+        },
+        {
+            "ID": 1,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                },
+                {
+                    "first_d": "A",
+                    "first_p": 1,
+                    "second_d": "B",
+                    "second_p": 2
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3",
+                "SHANK3"
+            ]
+        }
+    ]
+}

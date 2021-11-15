@@ -1,0 +1,66 @@
+{
+    "complexes": [{
+            "ID": 0,
+            "structure": ["SHANK3", "SHANK3"],
+            "bindings": [{
+                    "first_p": 0,
+                    "first_d": "A",
+                    "second_p": 1,
+                    "second_d": "B"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 2
+                }]
+        }],
+    "proteins": [{
+            "name": "DLG4",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 74,
+                    "bound": 0
+                }]
+        }, {
+            "name": "DLGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 4,
+                    "bound": 0
+                }]
+        }, {
+            "name": "GRIA1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 12,
+                    "bound": 0
+                }]
+        }, {
+            "name": "GRIN2B",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 0,
+                    "bound": 0
+                }]
+        }, {
+            "name": "HOMER1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 3,
+                    "bound": 0
+                }]
+        }, {
+            "name": "SHANK3",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 50,
+                    "bound": 4
+                }]
+        }, {
+            "name": "SYNGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 25,
+                    "bound": 0
+                }]
+        }]
+}

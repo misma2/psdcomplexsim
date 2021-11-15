@@ -1,0 +1,136 @@
+{
+    "complexes": [{
+            "ID": 0,
+            "structure": ["DLG4", "GRIN2B"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "CNMDAR",
+                    "second_p": 0,
+                    "second_d": "PDZtandem"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 2
+                }]
+        }, {
+            "ID": 1,
+            "structure": ["DLG4", "DLG4", "DLGAP1"],
+            "bindings": [{
+                    "first_p": 2,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }, {
+                    "first_p": 2,
+                    "first_d": "GBRS",
+                    "second_p": 1,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 3
+                }]
+        }, {
+            "ID": 2,
+            "structure": ["DLG4", "SYNGAP1"],
+            "bindings": [{
+                    "first_p": 0,
+                    "first_d": "PDZ3",
+                    "second_p": 1,
+                    "second_d": "CSYNGAP"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 14
+                }]
+        }, {
+            "ID": 3,
+            "structure": ["DLG4", "DLGAP1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 8
+                }]
+        }, {
+            "ID": 4,
+            "structure": ["DLGAP1", "SHANK3"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "PDZsh",
+                    "second_p": 0,
+                    "second_d": "CGKAP"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 1
+                }]
+        }, {
+            "ID": 5,
+            "structure": ["DLG4", "GRIA1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "CAMPA",
+                    "second_p": 0,
+                    "second_d": "PDZtandem"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 16
+                }]
+        }],
+    "proteins": [{
+            "name": "DLG4",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 342,
+                    "bound": 46
+                }]
+        }, {
+            "name": "DLGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 51,
+                    "bound": 12
+                }]
+        }, {
+            "name": "GRIA1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 165,
+                    "bound": 16
+                }]
+        }, {
+            "name": "GRIN2B",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 45,
+                    "bound": 2
+                }]
+        }, {
+            "name": "HOMER1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 11,
+                    "bound": 0
+                }]
+        }, {
+            "name": "SHANK3",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 22,
+                    "bound": 1
+                }]
+        }, {
+            "name": "SYNGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 94,
+                    "bound": 14
+                }]
+        }]
+}

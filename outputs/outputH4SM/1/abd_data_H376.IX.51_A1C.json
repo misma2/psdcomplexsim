@@ -1,0 +1,190 @@
+{
+    "complexes": [{
+            "ID": 0,
+            "structure": ["DLGAP1", "SHANK3"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "PDZsh",
+                    "second_p": 0,
+                    "second_d": "CGKAP"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 2
+                }]
+        }, {
+            "ID": 1,
+            "structure": ["DLG4", "DLGAP1", "SYNGAP1"],
+            "bindings": [{
+                    "first_p": 2,
+                    "first_d": "CSYNGAP",
+                    "second_p": 0,
+                    "second_d": "PDZ3"
+                }, {
+                    "first_p": 1,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 1
+                }]
+        }, {
+            "ID": 2,
+            "structure": ["DLG4", "DLGAP1", "GRIA1"],
+            "bindings": [{
+                    "first_p": 2,
+                    "first_d": "CAMPA",
+                    "second_p": 0,
+                    "second_d": "PDZtandem"
+                }, {
+                    "first_p": 1,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 1
+                }]
+        }, {
+            "ID": 3,
+            "structure": ["HOMER1", "SHANK3"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "virtualEVH1",
+                    "second_p": 0,
+                    "second_d": "EVH1"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 3
+                }]
+        }, {
+            "ID": 4,
+            "structure": ["DLG4", "DLG4", "DLGAP1"],
+            "bindings": [{
+                    "first_p": 2,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }, {
+                    "first_p": 2,
+                    "first_d": "GBRS",
+                    "second_p": 1,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 5
+                }]
+        }, {
+            "ID": 5,
+            "structure": ["DLG4", "GRIA1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "CAMPA",
+                    "second_p": 0,
+                    "second_d": "PDZtandem"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 7
+                }]
+        }, {
+            "ID": 6,
+            "structure": ["DLG4", "DLGAP1", "SHANK3"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }, {
+                    "first_p": 2,
+                    "first_d": "PDZsh",
+                    "second_p": 1,
+                    "second_d": "CGKAP"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 1
+                }]
+        }, {
+            "ID": 7,
+            "structure": ["DLG4", "DLGAP1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "GBRS",
+                    "second_p": 0,
+                    "second_d": "GK"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 13
+                }]
+        }, {
+            "ID": 8,
+            "structure": ["DLG4", "SYNGAP1"],
+            "bindings": [{
+                    "first_p": 1,
+                    "first_d": "CSYNGAP",
+                    "second_p": 0,
+                    "second_d": "PDZ3"
+                }],
+            "occurence": [{
+                    "compartment": "ALL",
+                    "abundance": 7
+                }]
+        }],
+    "proteins": [{
+            "name": "DLG4",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 609,
+                    "bound": 40
+                }]
+        }, {
+            "name": "DLGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 64,
+                    "bound": 23
+                }]
+        }, {
+            "name": "GRIA1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 38,
+                    "bound": 8
+                }]
+        }, {
+            "name": "GRIN2B",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 1,
+                    "bound": 0
+                }]
+        }, {
+            "name": "HOMER1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 20,
+                    "bound": 3
+                }]
+        }, {
+            "name": "SHANK3",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 49,
+                    "bound": 6
+                }]
+        }, {
+            "name": "SYNGAP1",
+            "occurence": [{
+                    "compartment": "ALL",
+                    "free": 45,
+                    "bound": 8
+                }]
+        }]
+}

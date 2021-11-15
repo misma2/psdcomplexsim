@@ -1,0 +1,46 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "CSYNGAP",
+                    "first_p": 1,
+                    "second_d": "PDZ3",
+                    "second_p": 0
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 3,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "SYNGAP1"
+            ]
+        },
+        {
+            "ID": 1,
+            "bindings": [
+                {
+                    "first_d": "PDZtandem",
+                    "first_p": 0,
+                    "second_d": "CAMPA",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "GRIA1"
+            ]
+        }
+    ]
+}

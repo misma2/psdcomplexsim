@@ -1,0 +1,88 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "GK",
+                    "first_p": 0,
+                    "second_d": "GBRS",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "DLGAP1"
+            ]
+        },
+        {
+            "ID": 1,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 2,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3"
+            ]
+        },
+        {
+            "ID": 2,
+            "bindings": [
+                {
+                    "first_d": "PDZtandem",
+                    "first_p": 0,
+                    "second_d": "CNMDAR",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 2,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "GRIN2B"
+            ]
+        },
+        {
+            "ID": 3,
+            "bindings": [
+                {
+                    "first_d": "PDZ3",
+                    "first_p": 0,
+                    "second_d": "CSYNGAP",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 6,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "SYNGAP1"
+            ]
+        }
+    ]
+}

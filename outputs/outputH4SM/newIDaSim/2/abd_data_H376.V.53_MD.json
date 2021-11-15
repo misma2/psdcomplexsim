@@ -1,0 +1,25 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 2,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3"
+            ]
+        }
+    ]
+}

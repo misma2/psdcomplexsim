@@ -1,0 +1,46 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3"
+            ]
+        },
+        {
+            "ID": 1,
+            "bindings": [
+                {
+                    "first_d": "virtualEVH1",
+                    "first_p": 1,
+                    "second_d": "EVH1",
+                    "second_p": 0
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "HOMER1",
+                "SHANK3"
+            ]
+        }
+    ]
+}

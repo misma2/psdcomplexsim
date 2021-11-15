@@ -1,0 +1,80 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                }
+            ],
+            "eredetibolvan": 0,
+            "newID": 0,
+            "occurence": [
+                {
+                    "abundance": 0,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3"
+            ]
+        },
+        {
+            "ID": 1,
+            "bindings": [
+                {
+                    "first_d": "A",
+                    "first_p": 0,
+                    "second_d": "B",
+                    "second_p": 1
+                },
+                {
+                    "first_d": "A",
+                    "first_p": 1,
+                    "second_d": "B",
+                    "second_p": 2
+                }
+            ],
+            "eredetibolvan": 1,
+            "newID": 1,
+            "occurence": [
+                {
+                    "abundance": 0,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "SHANK3",
+                "SHANK3",
+                "SHANK3"
+            ]
+        },
+        {
+            "ID": 1,
+            "appendelt": 1,
+            "bindings": [
+                {
+                    "first_d": "PDZtandem",
+                    "first_p": 0,
+                    "second_d": "CNMDAR",
+                    "second_p": 1
+                }
+            ],
+            "newID": 2,
+            "occurence": [
+                {
+                    "abundance": 0,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "GRIN2B"
+            ]
+        }
+    ]
+}

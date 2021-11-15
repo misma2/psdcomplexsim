@@ -1,0 +1,144 @@
+{
+    "complexes": [
+        {
+            "ID": 0,
+            "bindings": [
+                {
+                    "first_d": "PDZ3",
+                    "first_p": 0,
+                    "second_d": "CSYNGAP",
+                    "second_p": 2
+                },
+                {
+                    "first_d": "GBRS",
+                    "first_p": 1,
+                    "second_d": "GK",
+                    "second_p": 0
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "DLGAP1",
+                "SYNGAP1"
+            ]
+        },
+        {
+            "ID": 1,
+            "bindings": [
+                {
+                    "first_d": "CNMDAR",
+                    "first_p": 1,
+                    "second_d": "PDZtandem",
+                    "second_p": 0
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "GRIN2B"
+            ]
+        },
+        {
+            "ID": 2,
+            "bindings": [
+                {
+                    "first_d": "GBRS",
+                    "first_p": 1,
+                    "second_d": "GK",
+                    "second_p": 0
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 6,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "DLGAP1"
+            ]
+        },
+        {
+            "ID": 3,
+            "bindings": [
+                {
+                    "first_d": "CAMPA",
+                    "first_p": 1,
+                    "second_d": "PDZtandem",
+                    "second_p": 0
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 20,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "GRIA1"
+            ]
+        },
+        {
+            "ID": 4,
+            "bindings": [
+                {
+                    "first_d": "CAMPA",
+                    "first_p": 1,
+                    "second_d": "PDZtandem",
+                    "second_p": 0
+                },
+                {
+                    "first_d": "PDZ3",
+                    "first_p": 0,
+                    "second_d": "CSYNGAP",
+                    "second_p": 2
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 1,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "GRIA1",
+                "SYNGAP1"
+            ]
+        },
+        {
+            "ID": 5,
+            "bindings": [
+                {
+                    "first_d": "PDZ3",
+                    "first_p": 0,
+                    "second_d": "CSYNGAP",
+                    "second_p": 1
+                }
+            ],
+            "occurence": [
+                {
+                    "abundance": 39,
+                    "compartment": "ALL"
+                }
+            ],
+            "structure": [
+                "DLG4",
+                "SYNGAP1"
+            ]
+        }
+    ]
+}
