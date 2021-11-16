@@ -26,3 +26,7 @@ Gets the preferred data from the mRNA data downloaded from: https://brainspan.or
 Generates files for SiComPre
 ## generateInput/create_input.py
 Generates input json files for Cytocast (run.sh) from SiComPre abundance data.
+
+## outputs/runPostProcessing.py
+Runs the postprocessing calculation.
+See the details and functions in the code - there is minimalist GUI
