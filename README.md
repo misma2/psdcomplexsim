@@ -20,6 +20,7 @@ sets how many times a simulation should be run with the same setup - this will b
 set the input data directory, runs through each different setup (brain region)
 ### /cytocastCoreNoOsm
 is the command to start Cytocast see the Cytocast documantations for further information or -h for help
+order it from cytocast.com
 
 ## generateInput/brainspan.py
 Gets the preferred data from the mRNA data downloaded from: https://brainspan.org/static/download.html 
